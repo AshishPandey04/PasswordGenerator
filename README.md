@@ -30,7 +30,7 @@ To run the project locally:
 
 2. Navigate to the project directory:
    ```bash
-   cd ReactPasswordGenerator
+   cd passwordGeneratorProject
    ```
 
 3. Install the dependencies:
